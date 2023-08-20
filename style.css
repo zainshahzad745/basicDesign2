@@ -1,0 +1,168 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+   
+}
+
+#mainDiv{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #e8e7e5;
+}
+
+#leftDiv{
+
+    width: 35%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80");
+    background-size: cover;
+    background-attachment:center;
+    outline: solid 0.5px;
+}
+
+#rightDiv{
+   width: 65%;
+   height: 100%;
+
+}
+
+#rightTop{
+
+    height: 10%;
+    width: 100%;
+
+    display: flex;
+    outline: solid 0.5px;
+    
+}
+
+#rightTop h1 {
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: x-large;
+    font-weight: light;
+    font-family: monospace;
+}
+
+#rightTop h3{
+    margin-left: 67%;
+    font-size: small;
+    margin-top: 2%;
+    font-weight: light;
+    font-family: monospace;
+}
+
+#rightCenter{
+    width: 100%;
+    height: 50%;
+
+    display: flex;
+    outline: solid 0.5px;
+
+    margin-left: 0.5px;
+}
+
+
+
+#rightcenterLeft {
+    
+    width: 30%;
+    height: 100%;
+
+    outline: solid 0.5px;
+
+
+
+}
+#rightcenterLeft img{
+    width: 70%;
+    outline: solid 0.5px;
+    height: 90%;
+    margin-left: 15%;
+    margin-top: 5%;
+}   
+
+#rightcenterRight{
+    width: 70%;
+    height: 100%;
+    outline: solid 0.5px;
+
+}
+
+#rightcenterRight h2{
+
+    font-size: large;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+#rightcenterRight p{
+    text-align: left;
+    margin-top: 1%;
+    margin-left: 3%;
+    max-height: 3%;
+}
+
+
+#rightBottom{
+    width: 100%;
+    height: 40%;
+    display: flex;
+}
+
+#rightbottomLeft{
+    width: 50%;
+    height: 100%;
+    outline: solid 1px;
+
+}
+
+
+#rightbottomLeft ol{
+    margin-top: 5%;
+}
+
+#rightbottomLeft li{
+
+    
+    font-size: medium;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+#rightbottomLeft h2 {
+    margin-left: 7%;
+    margin-top: 15%;
+}
+
+#rightbottomRight{
+
+    width: 50%;
+    height: 100%;
+    outline: solid 1px;
+}
+
+
+#rightbottomRight img{
+
+    margin-left: 25%;
+    width: 270px;
+    height: 270px;
+}
+
+#page2{
+    width: 100%;
+    height: 100%;
+    background-color: #e8e7e5;
+}

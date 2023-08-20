@@ -1,0 +1,12 @@
+class 4 
+
+truthy string humesha truthy deti hy 
+function koi esi chezz jo bna di hy use jb dil kry use krly foran ni
+function bhi hositing krty hy 
+callback patrameter may ik function bheja no name function 
+parameters function abc(x,y,z)
+falsy agar false 0 nan null undefined ara yani else chaly ga
+
+array after es6 
+map function testArray.map() call backfunction hy ye array ki length jitni dafa jo function dogay call kronga map used for iteration map apko ik naya instance bhi return kr sakta hy for loop ni krta
+filter function filter jo jo condition satisfy kry to usko nikal lo  
